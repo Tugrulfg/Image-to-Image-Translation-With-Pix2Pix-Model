@@ -6,7 +6,9 @@ Img2Mask ---> Converts images to segmentation masks.
 Mask2Img ----> Converts segmentation masks to images.
 
 
-## Dataset
+## DATASET
+
+### Citation
 @INPROCEEDINGS{Tylecek13,
   author = {Radim Tyle{\v c}ek and Radim {\v S}{\' a}ra},
   title = {Spatial Pattern Templates for Recognition of Objects with Regular Structure},
